@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE listacursos SYSTEM "listacursos.dtd">
+<listacursos>
+    <curso>
+        <alumno>
+            <DNI>1000893886</DNI>
+            <nombre>Santiago</nombre>
+            <apellido>Cano</apellido>
+            <segundo-apellido>Ospina</segundo-apellido>
+            <asignatura codigo="A13221">
+                <nombre>Matamaticas</nombre>
+                <profesor>
+                    <NRP>21142121310</NRP>
+                    <nombre>Carlos</nombre>
+                    <apellido>Pérez</apellido>
+                </profesor>
+            </asignatura>
+            <asignatura codigo="B57666">
+                <nombre>Aritmetica</nombre>
+                <profesor>
+                    <NRP>21142121310</NRP>
+                    <nombre>Carlos</nombre>
+                    <apellido>Pérez</apellido>
+                </profesor>
+            </asignatura>
+        </alumno>
+    </curso>
+</listacursos>
